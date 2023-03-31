@@ -17,3 +17,7 @@ I enjoy coding.
 Genshin Impact | Blue Archive
 
 [![Profile Views](https://hits.sh/github.com/ocr655501.svg?label=Profile%20views&color=9300c6)](https://hits.sh/github.com/ocr655501/)
+
+--------
+
+If you find useful things here, please give me a **star**⭐ in corresponding repository~
