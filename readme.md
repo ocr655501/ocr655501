@@ -1,6 +1,6 @@
 ## Who am I?
 
-An anonymous postgraduate student
+An anonymous postgraduate student ~~who has a 64GiB RAM gaming PC~~
 
 Coding preference: `Python` `C` `C++`
 
@@ -12,12 +12,12 @@ I enjoy coding.
 
 **GARBAGE CODE MERGER WARNING**
 
-## For Leisure
+## Leisurement
 
-Genshin Impact | Blue Archive
+Genshin Impact | Blue Archive | Honkai StarRail
 
 [![Profile Views](https://hits.sh/github.com/ocr655501.svg?label=Profile%20views&color=9300c6)](https://hits.sh/github.com/ocr655501/)
 
 --------
 
-If you find useful things here, please give me a **star**⭐ in corresponding repository~
+If you find something helpful to your interest, feel free to give me a **star**⭐ in corresponding repository~
