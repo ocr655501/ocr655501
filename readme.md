@@ -1,5 +1,7 @@
 ## Who am I?
 
+Commercial coder
+
 An anonymous postgraduate student ~~who has a 64GiB RAM gaming PC~~
 
 Coding preference: `Python` `C` `C++` `MATLAB`
